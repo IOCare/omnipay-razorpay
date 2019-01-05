@@ -23,7 +23,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "razorpay/omnipay-razorpay": "~2.0"
+        "iocare/omnipay-razorpay": "~2.0"
     }
 }
 ```
